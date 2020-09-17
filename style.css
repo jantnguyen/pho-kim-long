@@ -3,8 +3,8 @@ html{
 }
 
 body{
-  background-color: rgba(20, 19, 20, 0.911) ;
-  background-image: url(images.png/restaurant_1.jpeg) ;
+  background-color: rgba(20, 19, 20, 0.911);
+  background-image: url(images.png/background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -98,4 +98,4 @@ footer p{
   font-size: 10px;
   text-align: center;
   padding: 20px;
-}
+a}
