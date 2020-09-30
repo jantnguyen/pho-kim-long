@@ -17,8 +17,9 @@ body {
 }
 
 header {
-  height: 118px;
-  text-align: center;
+  height: 110px;
+  width: 30px;
+  text-align: left;
 }
 
 nav {
@@ -52,8 +53,8 @@ footer {
   height: 50px;
 }
 
-img {
-  width: 280px;
+img{
+  width: 180px;
   height: 150px;
   padding-bottom: 40px;
   ;
